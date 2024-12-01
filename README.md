@@ -1,1 +1,1 @@
-# Yandex_course_secondproject-
+# Репозиторий сайта Путешествия по России
