@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+@media (min-width: 1280px) {
+    .header {
+        max-width: 1184px;
+        margin: 28px auto;
+    }
+}

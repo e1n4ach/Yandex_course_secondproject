@@ -1,0 +1,9 @@
+.header__lang-links_name_ru {
+  color: white;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 4px;
+  margin-right: 18px;
+  line-height: 28px;
+  font-size: 24px;
+}
