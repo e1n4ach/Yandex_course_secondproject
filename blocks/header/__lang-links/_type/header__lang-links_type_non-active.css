@@ -1,0 +1,12 @@
+.header__lang-links_type_non-active {
+  color: white;
+  text-decoration: none;
+  line-height: 28px;
+  font-size: 24px;
+  opacity: 1;
+}
+
+.header__lang-links_type_non-active:hover {
+  opacity: 0.4;
+  transition: ease 0.5s;
+}

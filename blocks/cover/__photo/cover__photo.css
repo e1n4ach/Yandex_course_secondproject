@@ -1,0 +1,7 @@
+.cover__photo {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  opacity: 0.7;
+  position: static;
+}

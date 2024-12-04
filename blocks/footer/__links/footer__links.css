@@ -1,0 +1,9 @@
+.footer__links {
+  color: white;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .footer__links {
+    margin-bottom: 48px;
+  }
+}
