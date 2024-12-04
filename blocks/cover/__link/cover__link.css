@@ -1,0 +1,8 @@
+.cover__link {
+  display: block;
+  text-decoration: none;
+}
+
+.cover__link:hover .cover__photo {
+  opacity: 0.2;
+}

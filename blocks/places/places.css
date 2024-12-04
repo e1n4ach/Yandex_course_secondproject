@@ -5,9 +5,9 @@
 @media (min-width: 1280px) {
   .places {
     max-width: 984px;
-    margin: 92px auto;
+    margin: 92px auto 92px auto;
     grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(5, 1fr);
+    grid-template-rows: 660px 584px 584px 660px 584px;
     row-gap: 80px;
   }
 }
@@ -15,9 +15,9 @@
 @media (min-width: 1024px) and (max-width: 1279px) {
   .places {
     max-width: 928px;
-    margin: 92px auto;
+    margin: 92px auto 92px auto;
     grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(5, 1fr);
+    grid-template-rows: 640px 564px 564px 640px 564px;
     row-gap: 80px;
   }
 }
@@ -25,9 +25,9 @@
 @media (min-width: 768px) and (max-width: 1023px) {
   .places {
     max-width: 720px;
-    margin: 88px auto;
+    margin: 88px auto 88px auto;
     grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(5, 1fr);
+    grid-template-rows: 581px 535px 535px 581px 535px;
     row-gap: 73px;
   }
 }
@@ -35,9 +35,9 @@
 @media (min-width: 320px) and (max-width: 767px) {
   .places {
     max-width: 320px;
-    margin: 64px auto;
+    margin: 64px auto 66px auto;
     grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(5, 1fr);
+    grid-template-rows: 1042px 1016px 990px 905px 965px;
     row-gap: 50px;
   }
 }
