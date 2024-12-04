@@ -1,58 +1,58 @@
 .intro__text {
-    color: white;
+  color: white;
 }
 
 @media (min-width: 1280px) {
-    .intro__text {
-        max-width: 690px;
-        max-height: 208px;
-        font-size: 16px;
-        line-height: 163%;
-        font-weight: 300;
-        margin-bottom: 33px;
-    }
+  .intro__text {
+    max-width: 690px;
+    max-height: 208px;
+    font-size: 16px;
+    line-height: 163%;
+    font-weight: 300;
+    margin-bottom: 33px;
+  }
 }
 
-@media (max-width: 1280px) {
-    .intro__text {
-        max-width: 690px;
-        max-height: 208px;
-        font-size: 16px;
-        line-height: 163%;
-        font-weight: 300;
-        margin-bottom: 33px;
-    }
+@media (min-width: 1280px) {
+  .intro__text {
+    max-width: 690px;
+    max-height: 208px;
+    font-size: 16px;
+    line-height: 163%;
+    font-weight: 300;
+    margin-bottom: 33px;
+  }
 }
 
-@media (max-width: 1024px) {
-    .intro__text {
-        max-width: 690px;
-        max-height: 208px;
-        font-size: 16px;
-        line-height: 163%;
-        font-weight: 300;
-        margin-bottom: 33px;
-    }
+@media (min-width: 1024px) {
+  .intro__text {
+    max-width: 690px;
+    max-height: 208px;
+    font-size: 16px;
+    line-height: 163%;
+    font-weight: 300;
+    margin-bottom: 33px;
+  }
 }
 
-@media (max-width: 768px) {
-    .intro__text {
-        max-width: 720px;
-        max-height: 208px;
-        font-size: 16px;
-        line-height: 163%;
-        font-weight: 300;
-        margin-bottom: 33px;
-    }
+@media (min-width: 768px) {
+  .intro__text {
+    max-width: 720px;
+    max-height: 208px;
+    font-size: 16px;
+    line-height: 163%;
+    font-weight: 300;
+    margin-bottom: 33px;
+  }
 }
 
-@media (max-width: 320px) {
-    .intro__text {
-        max-width: 288px;
-        max-height: 520px;
-        font-size: 16px;
-        line-height: 163%;
-        font-weight: 300;
-        margin-bottom: 34px;
-    }
+@media (min-width: 320px) {
+  .intro__text {
+    max-width: 288px;
+    max-height: 520px;
+    font-size: 16px;
+    line-height: 163%;
+    font-weight: 300;
+    margin-bottom: 34px;
+  }
 }
