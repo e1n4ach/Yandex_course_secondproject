@@ -9,28 +9,21 @@
   }
 }
 
-@media (min-width: 1280px) {
-  .lead__image {
-    max-width: 950px;
-    max-height: 590px;
-  }
-}
-
-@media (min-width: 1024px) {
+@media (min-width: 1024px) and (max-width: 1280px) {
   .lead__image {
     max-width: 928px;
     max-height: 580px;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 1024px) {
   .lead__image {
     max-width: 758px;
     max-height: 480px;
   }
 }
 
-@media (min-width: 320px) {
+@media (min-width: 320px) and (max-width: 768px) {
   .lead__image {
     max-width: 320px;
     max-height: 200px;

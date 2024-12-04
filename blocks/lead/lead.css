@@ -4,33 +4,26 @@
 
 @media (min-width: 1280px) {
   .lead {
-    max-width: 984px;
-    margin: 56px auto;
-  }
-}
-
-@media (min-width: 1280px) {
-  .lead {
     max-width: 958px;
     margin: 56px auto;
   }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1024px) and (max-width: 1280px) {
   .lead {
     max-width: 928px;
     margin: 48px auto;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 1024px) {
   .lead {
     max-width: 768px;
     margin: 48px auto;
   }
 }
 
-@media (min-width: 320px) {
+@media (min-width: 320px) and (max-width: 768px) {
   .lead {
     max-width: 320px;
     margin: 16px auto;
